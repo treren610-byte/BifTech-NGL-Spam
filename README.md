@@ -1,5 +1,6 @@
 # BifTech NGL Spam
 Kullanabilmek İçin Herhangi Bir Hosting Sitesine Yükleyin.
+
 **Not :** Vercel'e Yüklerseniz Çalışmaz.
 Ücretsiz Kullanabileceğiniz Hosting: [İnfinityFree](https://infinityfree.com)
 
